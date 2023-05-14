@@ -12,10 +12,11 @@ function App() {
     <div className="container">
 
         <img className='background-image' src="" alt="background-image" />
-        {/* <ul className="navbar">
-          <li>User</li>
-          <li>Admin</li>
-        </ul> */}
+        <nav className="navbar">
+          <img src="./public/gem.png" alt="logo"/>
+          <h2>Gems</h2>
+          <img src="./public/user.png" alt="user-logo"/>
+        </nav>
         <div className="description">
           <p>You Know of Another <br/> Hidden Gem?</p>
           <button className="call-action">Share With Us!</button>
@@ -23,6 +24,7 @@ function App() {
         <div className="cards">
           <img src="" alt="card-img"/>
           <h3>Name</h3>
+          <button>Learn More</button>
         </div>
 
         {/* temporary holding area for admin and user dashbords */}
