@@ -1,5 +1,7 @@
 // import React from 'react';
 import './App.css'
+import User from "./User"
+import Admin from "./Admin"
 
 function App() {
   
@@ -22,8 +24,12 @@ function App() {
           <img src="" alt="card-img"/>
           <h3>Name</h3>
         </div>
-      
+
+        {/* temporary holding area for admin and user dashbords */}
+      <Admin />
+    <User /> 
     </div>
+   
   )
 }
 
