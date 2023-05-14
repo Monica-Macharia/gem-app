@@ -24,6 +24,8 @@ function App() {
         <div className="cards">
           <img src="" alt="card-img"/>
           <h3>Name</h3>
+
+          {/* when learn more is clicked, the card should enlarge or flipped and description offered */}
           <button>Learn More</button>
         </div>
 
