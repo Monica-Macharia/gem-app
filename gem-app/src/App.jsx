@@ -3,6 +3,8 @@ import './App.css'
 
 function App() {
   
+//Get request happens here updating the card
+
 
   return (
     <div className="container">
