@@ -34,6 +34,7 @@ function Admin(){
             <label>Description:
                 <input type="text" />
             </label>
+            <button>Submit</button>
 
         </form>
 
