@@ -27,7 +27,7 @@ function App() {
 
         {/* temporary holding area for admin and user dashbords */}
       <Admin />
-    <User /> 
+      <User /> 
     </div>
    
   )
