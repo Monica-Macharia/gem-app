@@ -13,9 +13,9 @@ function App() {
 
         <img className='background-image' src="" alt="background-image" />
         <nav className="navbar">
-          <img src="./public/gem.png" alt="logo"/>
+          <img src="/gem.png" alt="logo"/>
           <h2>Gems</h2>
-          <img src="./public/user.png" alt="user-logo"/>
+          <img src="/user.png" alt="user-logo"/>
         </nav>
         <div className="description">
           <p>You Know of Another <br/> Hidden Gem?</p>

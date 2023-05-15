@@ -8,6 +8,7 @@ function Admin(){
         <div className="cards">
             <img src="" alt="" />
             <p>Name:</p>
+            <p>Image-url:</p>
             <p>Video-url:</p>
             <p>Decription:</p> 
             
